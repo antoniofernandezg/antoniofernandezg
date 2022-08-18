@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently coding with Python & Django
 - 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me Twitter @the_integrator
 
